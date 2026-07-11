@@ -18,6 +18,17 @@ its own `setup/install.sh`, macOS only).
 - **obra/superpowers**: https://github.com/obra/superpowers — well-regarded
   workflow skills (TDD, worktrees, etc.).
 
+## Julian Shapiro handbooks (product-site copy / growth)
+
+https://www.julian.com — free long-form handbooks: Landing Pages guide,
+Writing Well, Growth Marketing, Startup guide
+(https://www.julian.com/guide/startup/intro). Relevant as the
+human-conversion complement to the `geo` skill (AI citability). BLOCKED
+from the cloud sandbox (proxy 403, archive.org also blocked) — fetch it
+in a local Mac session or have the user paste content. Pending idea: distill
+a lean `landing-pages` skill from the real guide text once content is
+available (frameworks with attribution, never verbatim copy).
+
 ## Context7 (up-to-date library docs)
 
 https://context7.com — injects current, version-specific library docs into
