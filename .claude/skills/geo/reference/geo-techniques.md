@@ -81,6 +81,19 @@ Cited text is quoted text. Strip before shipping:
 - Rule-of-three padding and mirrored sentence rhythm.
 - Every sentence must add a fact, or it goes.
 
+## Distribution surfaces beyond your own site
+
+Engines and coding agents also pull from indexed third-party surfaces:
+
+- **Context7** (context7.com) — indexes library/product docs and injects
+  them into AI coding agents (Cursor, Claude Code) at inference time. If
+  the product has developer docs or an API, submit them ("Adding
+  Libraries" on their site) — free distribution into the exact context
+  where developers ask about your problem space.
+- GitHub README (often the entity's strongest-crawled page), Medium,
+  Reddit, YouTube transcripts. Keep the canonical entity phrasing
+  identical on all of them.
+
 ## Measuring
 
 - **Citability (minutes):** give a live-fetch engine the URL and the target

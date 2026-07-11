@@ -18,6 +18,26 @@ its own `setup/install.sh`, macOS only).
 - **obra/superpowers**: https://github.com/obra/superpowers — well-regarded
   workflow skills (TDD, worktrees, etc.).
 
+## Context7 (up-to-date library docs)
+
+https://context7.com — injects current, version-specific library docs into
+coding agents; fixes stale-training-data hallucinations. Install on each
+Mac with `npx ctx7 setup --claude` (installs their official skill; free API
+key via their dashboard). Unreachable from the cloud sandbox (proxy blocks
+it), so don't attempt to call it there. GEO note: submitting product docs
+to Context7 is a free AI-citation distribution channel (see
+`.claude/skills/geo/reference/geo-techniques.md`).
+
+## Auto-trigger rules
+
+- When editing or reviewing product-site content (marketing pages, docs,
+  llms.txt), use the `geo` skill without being asked.
+- When creating or modifying a skill in this repo, follow `skill-creator`
+  and validate with its `quick_validate.py`.
+- When implementing features or bugfixes with tests, follow the
+  `test-driven-development` skill.
+- When asked "is there a skill for X", search via `skills-directory`.
+
 ## House rules for adding skills
 
 - Vet before install: read the full SKILL.md and every script; check
