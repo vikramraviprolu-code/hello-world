@@ -71,6 +71,9 @@ surfacing.
 
 ## Scope boundaries
 
+- Human conversion (hero anatomy, persuasion, CTA design) is the
+  `landing-pages` skill's job — invoke it in the same pass so a product page
+  serves both AI engines and the humans who land on it.
 - Structural/technical SEO (Core Web Vitals, redirects, canonical tags) is
   out of scope — recommend a dedicated SEO pass instead.
 - Writing net-new marketing copy from nothing is normal writing, not GEO —

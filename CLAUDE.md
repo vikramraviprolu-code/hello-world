@@ -25,9 +25,10 @@ Writing Well, Growth Marketing, Startup guide
 (https://www.julian.com/guide/startup/intro). Relevant as the
 human-conversion complement to the `geo` skill (AI citability). BLOCKED
 from the cloud sandbox (proxy 403, archive.org also blocked) — fetch it
-in a local Mac session or have the user paste content. Pending idea: distill
-a lean `landing-pages` skill from the real guide text once content is
-available (frameworks with attribution, never verbatim copy).
+in a local Mac session or have the user paste content. The `landing-pages`
+skill was built from training-knowledge frameworks (attributed, never
+verbatim) as a first pass; TRUE IT UP against the real guide text once
+content is available.
 
 ## Context7 (up-to-date library docs)
 
@@ -42,7 +43,8 @@ to Context7 is a free AI-citation distribution channel (see
 ## Auto-trigger rules
 
 - When editing or reviewing product-site content (marketing pages, docs,
-  llms.txt), use the `geo` skill without being asked.
+  llms.txt), use the `geo` skill (AI citability) and the `landing-pages`
+  skill (human conversion) together, without being asked.
 - When creating or modifying a skill in this repo, follow `skill-creator`
   and validate with its `quick_validate.py`.
 - When implementing features or bugfixes with tests, follow the
