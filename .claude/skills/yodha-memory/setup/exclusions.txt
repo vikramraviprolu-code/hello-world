@@ -1,0 +1,13 @@
+# Yodha Memory exclusions — one case-insensitive glob per line.
+# Matched against the frontmost APP NAME and the WINDOW TITLE.
+# When a line matches, nothing is captured for that cycle.
+1Password*
+Keychain Access
+System Settings
+*password*
+*bank*
+*chase.com*
+*hsbc*
+*login*
+*private brows*
+*incognito*

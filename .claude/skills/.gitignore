@@ -1,0 +1,4 @@
+# Transient artifacts — never commit
+__pycache__/
+*.pyc
+.cache/
